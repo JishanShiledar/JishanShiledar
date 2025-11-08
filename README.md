@@ -4,7 +4,7 @@
 - 🔭 I build robust, scalable backend systems: REST/gRPC APIs, microservices and data pipelines.
 - 💼 Currently: _Your Company / Student / Freelancer_  
 - 🛠 Tech: Java (Spring Boot) • Kotlin • Node.js (TypeScript) • Python (FastAPI) • PostgreSQL • Redis • Docker • Kubernetes • gRPC • Kafka
-- 📫 Reach me: jishanshiledar34@gmail.com · [LinkedIn](linkedin.com/in/jishanshiledar22)
+- 📫 Reach me: jishanshiledar34@gmail.com · [LinkedIn](www.linkedin.com/in/jishanshiledar22)
 - ⚡ Fun: optimizing DB queries, designing fault-tolerant systems, and improving CI pipelines
 
 ---
